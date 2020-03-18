@@ -1,0 +1,94 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Dashboard
+{% endblock %}
+
+
+
+
+{% block body %}
+    <h3 class="text-center text-secondary mt-2 p-2">Kontrol Paneli</h3>
+    <p class="text-center">
+        <small >
+            Hoşgeldin {{ session["username"] }}
+        </small>
+    </p> 
+    
+    <p class="text-right mr-4">
+        <a class="btn btn-danger" href="/addarticle">
+            Makale ekle
+        </a>
+    </p>
+    <hr class="border-danger p-1">
+    <br>
+
+    <div class="mx-4">
+
+
+        {% if articles %}
+
+             
+
+
+
+                <table class="table table-hover  ">
+                    <thead class="table-dark">
+                        <tr>
+                        <th scope="col">İd</th>
+                        <th scope="col">Yazar</th>
+                        <th scope="col">Konu</th>
+                        <th scope="col">Oluşturulma Zamanı</th>
+                        <th scope="col">İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        {% for article in articles %}
+                            <tr>
+                                <th scope="row"> {{ article.id }} </th>
+                                <td>
+                                    <a href="/article-{{ article.id }}" class="text-danger">
+                                         {{ article["author"]}}
+                                    </a> 
+                                </td>
+                                <td> {{ article["title"] }} </td>
+                                <td> {{ article["created_date"] }} </td>
+                                <td>
+                                    <a href="deleted-{{ article['id'] }}" class="btn mr-4 btn-danger">
+                                        Sil
+                                    </a>
+                            
+                                    <a href="/update-{{ article['id'] }}" class="btn btn-danger">
+                                        Düzenle
+                                    </a>
+                                </td>
+
+                            </tr>
+
+                            
+                        
+                        {% endfor %}
+                    </tbody>
+                </table>
+                
+
+
+        {% else %}
+                <div class="alert alert-danger mx-4">
+                    <p>
+                        Henüz hiç makale paylaşmadınız
+                    </p>
+                </div>
+
+        {% endif %}
+
+       
+
+    </div>
+
+
+
+
+
+{% endblock %}

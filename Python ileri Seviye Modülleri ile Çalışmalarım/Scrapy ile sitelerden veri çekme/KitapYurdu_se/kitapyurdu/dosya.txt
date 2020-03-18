@@ -1,0 +1,397 @@
+***************1********************
+Kitap İsmi : Allah’ım Ben Geldim.
+Yazar :  Hatice Kübra Tongar.
+Kitap türü : HAYY KİTAP.
+********************************************************
+***************2********************
+Kitap İsmi : Sarmal.
+Yazar :  Murat Ağırel.
+Kitap türü : KIRMIZI KEDİ YAYINEVİ.
+********************************************************
+***************3********************
+Kitap İsmi : Körlük.
+Yazar :  Jose Saramago.
+Kitap türü : KIRMIZI KEDİ YAYINEVİ.
+********************************************************
+***************4********************
+Kitap İsmi : Fabrika Ayarı.
+Yazar :  Hayati İnanç.
+Kitap türü : PROFİL KİTAP.
+********************************************************
+***************5********************
+Kitap İsmi : Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler.
+Yazar :  Bekir Develi.
+Kitap türü : KRONİK KİTAP.
+********************************************************
+***************6********************
+Kitap İsmi : Şeker Portakalı (Ciltsiz).
+Yazar : Prof. Dr. İlber Ortaylı.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************7********************
+Kitap İsmi : Momo.
+Yazar :  Jose Mauro De Vasconcelos.
+Kitap türü : PEGASUS YAYINLARI.
+********************************************************
+***************8********************
+Kitap İsmi : İrade Terbiyesi.
+Yazar :  Michael Ende.
+Kitap türü : EDİZ YAYINEVİ.
+********************************************************
+***************9********************
+Kitap İsmi : Tüfek, Mikrop ve Çelik .
+Yazar :  Jules Payot.
+Kitap türü : PEGASUS YAYINLARI.
+********************************************************
+***************10********************
+Kitap İsmi : Altıncı Koğuş.
+Yazar :  Jared Diamond.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************11********************
+Kitap İsmi : Gülün Adı (Ciltsiz).
+Yazar :  Anton Çehov.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************12********************
+Kitap İsmi : Sineklerin Tanrısı (karton kapak).
+Yazar :  Umberto Eco.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************13********************
+Kitap İsmi : Suç ve Ceza (Ciltsiz).
+Yazar :  William Golding.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************14********************
+Kitap İsmi : Hayvan Çiftliği (Ciltsiz).
+Yazar :  Fyodor Mihayloviç Dostoyevski.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************15********************
+Kitap İsmi : Simyacı (Ciltsiz).
+Yazar :  George Orwell.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************16********************
+Kitap İsmi : 1984.
+Yazar :  Paulo Coelho.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************17********************
+Kitap İsmi : İçimizdeki Şeytan.
+Yazar :  George Orwell.
+Kitap türü : YAPI KREDİ YAYINLARI.
+********************************************************
+***************18********************
+Kitap İsmi : Cesur Yeni Dünya.
+Yazar :  Sabahattin Ali.
+Kitap türü : İTHAKİ YAYINLARI.
+********************************************************
+***************19********************
+Kitap İsmi : Otomatik Portakal (ciltsiz).
+Yazar :  Aldous Huxley.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************20********************
+Kitap İsmi : Metastaz.
+Yazar :  Anthony Burgess.
+Kitap türü : KIRMIZI KEDİ YAYINEVİ.
+********************************************************
+***************21********************
+Kitap İsmi : Son Av.
+Yazar :  Jean Christophe Grange.
+Kitap türü : DOĞAN KİTAP.
+********************************************************
+***************22********************
+Kitap İsmi : Fahrenheit 451.
+Yazar :  Ray Bradbury.
+Kitap türü : İTHAKİ YAYINLARI.
+********************************************************
+***************23********************
+Kitap İsmi : Yabancı.
+Yazar :  Albert Camus.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************24********************
+Kitap İsmi : Bilinmeyen Bir Kadının Mektubu (Karton Kapak).
+Yazar :  Stefan Zweig.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************25********************
+Kitap İsmi : Bunu Herkes Bilir & Tarihte Yanlış Sorulara Doğru Cevaplar.
+Yazar :  Emrah Safa Gürkan.
+Kitap türü : KRONİK KİTAP.
+********************************************************
+***************26********************
+Kitap İsmi : Othello (Karton Kapak).
+Yazar :  William Shakespeare.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************27********************
+Kitap İsmi : Ben, Kirke.
+Yazar :  Madeline Miller.
+Kitap türü : İTHAKİ YAYINLARI.
+********************************************************
+***************28********************
+Kitap İsmi : Akhilleus’un Şarkısı.
+Yazar :  Madeline Miller.
+Kitap türü : İTHAKİ YAYINLARI.
+********************************************************
+***************29********************
+Kitap İsmi : İnsan Neyle Yaşar (Karton Kapak).
+Yazar :  Lev N. Tolstoy.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************30********************
+Kitap İsmi : Devlet (Ciltsiz).
+Yazar :  Platon(Eflatun) .
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************31********************
+Kitap İsmi : Yeraltından Notlar (Karton Kapak).
+Yazar :  Fyodor Mihayloviç Dostoyevski.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************32********************
+Kitap İsmi : Heyet 4 / Türklerin Kutsal Hikayesi.
+Yazar :  Halil Yaşar Kollu.
+Kitap türü : LOPUS.
+********************************************************
+***************33********************
+Kitap İsmi : Kırmızı Pazartesi.
+Yazar :  Gabriel Garcia Marquez.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************34********************
+Kitap İsmi : Görmek.
+Yazar :  Jose Saramago.
+Kitap türü : KIRMIZI KEDİ YAYINEVİ.
+********************************************************
+***************35********************
+Kitap İsmi : İçimdeki Müzik .
+Yazar :  Sharon M. Draper.
+Kitap türü : TİMAŞ GENÇ.
+********************************************************
+***************36********************
+Kitap İsmi : Kuyucaklı Yusuf.
+Yazar :  Sabahattin Ali.
+Kitap türü : YAPI KREDİ YAYINLARI.
+********************************************************
+***************37********************
+Kitap İsmi : Olağanüstü Bir Gece.
+Yazar :  Stefan Zweig.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************38********************
+Kitap İsmi : Satranç (Karton Kapak).
+Yazar :  Stefan Zweig.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************39********************
+Kitap İsmi : Kürk Mantolu Madonna.
+Yazar :  Sabahattin Ali.
+Kitap türü : YAPI KREDİ YAYINLARI.
+********************************************************
+***************40********************
+Kitap İsmi : Camdaki Kız.
+Yazar : Dr. Gülseren Budayıcıoğlu.
+Kitap türü : DOĞAN KİTAP.
+********************************************************
+***************41********************
+Kitap İsmi : İnsanın Anlam Arayışı.
+Yazar :  Viktor Emil Frankl.
+Kitap türü : OKUYAN US YAYIN.
+********************************************************
+***************42********************
+Kitap İsmi : Beyaz Zambaklar Ülkesinde  (Atatürk 'ün askerlere tavsiye ettiği kitap).
+Yazar :  Grigory Petrov.
+Kitap türü : KARBON KİTAPLAR.
+********************************************************
+***************43********************
+Kitap İsmi : Mecburiyet.
+Yazar :  Stefan Zweig.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************44********************
+Kitap İsmi : Güneşi Uyandıralım.
+Yazar :  Jose Mauro De Vasconcelos.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************45********************
+Kitap İsmi : Veronika Ölmek İstiyor.
+Yazar :  Paulo Coelho.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************46********************
+Kitap İsmi : Senin Suçun Değil.
+Yazar :  Beyhan Budak.
+Kitap türü : İNKILAP KİTABEVİ.
+********************************************************
+***************47********************
+Kitap İsmi : Sokrates'in Savunması (Karton Kapak).
+Yazar :  Platon(Eflatun) .
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************48********************
+Kitap İsmi : Çavdar Tarlasında Çocuklar.
+Yazar :  J. D. Salinger.
+Kitap türü : YAPI KREDİ YAYINLARI.
+********************************************************
+***************49********************
+Kitap İsmi : Huzursuzluk.
+Yazar :  Zülfü Livaneli.
+Kitap türü : DOĞAN KİTAP.
+********************************************************
+***************50********************
+Kitap İsmi : Dönüşüm (Karton Kapak).
+Yazar :  Franz Kafka.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************51********************
+Kitap İsmi : Çizgili Pijamalı Çocuk.
+Yazar :  John Boyne.
+Kitap türü : TUDEM YAYINEVİ.
+********************************************************
+***************52********************
+Kitap İsmi : Küçük Prens.
+Yazar :  Antoine De Saint Exupery.
+Kitap türü : CAN ÇOCUK YAYINLARI.
+********************************************************
+***************53********************
+Kitap İsmi : Korku.
+Yazar :  Stefan Zweig.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************54********************
+Kitap İsmi : Amok Koşucusu.
+Yazar :  Stefan Zweig.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************55********************
+Kitap İsmi : Hiç’likten Gelen Güç.
+Yazar :  Tuğçe Işınsu.
+Kitap türü : FENİKS KİTAP.
+********************************************************
+***************56********************
+Kitap İsmi : Yeşilin Kızı Anne.
+Yazar :  L. M. Montgomery.
+Kitap türü : SALTOKUR.
+********************************************************
+***************57********************
+Kitap İsmi : Otuz Milyon Kelime & Çocuğunuzun Beynini Geliştirin.
+Yazar : Dr. Dana Suskind.
+Kitap türü : BUZDAĞI YAYINLARI.
+********************************************************
+***************58********************
+Kitap İsmi : Aylak Adam.
+Yazar :  Yusuf Atılgan.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************59********************
+Kitap İsmi : Delifişek.
+Yazar :  Jose Mauro De Vasconcelos.
+Kitap türü : CAN YAYINLARI.
+********************************************************
+***************60********************
+Kitap İsmi : Sabahattin Ali Seti (3 Kitap).
+Yazar :  Sabahattin Ali.
+Kitap türü : KARBON KİTAPLAR.
+********************************************************
+***************61********************
+Kitap İsmi : Sırça Köşk.
+Yazar :  Sabahattin Ali.
+Kitap türü : YAPI KREDİ YAYINLARI.
+********************************************************
+***************62********************
+Kitap İsmi : Gerçek Tıp & Yitik Şifanın İzinde.
+Yazar :  Aidin Salih.
+Kitap türü : YİTİK ŞİFA.
+********************************************************
+***************63********************
+Kitap İsmi : İnce Memed 1.
+Yazar :  Yaşar Kemal.
+Kitap türü : YAPI KREDİ YAYINLARI.
+********************************************************
+***************64********************
+Kitap İsmi : Romeo ve Juliet (Karton Kapak).
+Yazar :  William Shakespeare.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************65********************
+Kitap İsmi : Bir İdam Mahkumunun Son Günü (Karton Kapak).
+Yazar :  Victor Hugo.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************66********************
+Kitap İsmi : Semerkant.
+Yazar :  Amin Maalouf.
+Kitap türü : YAPI KREDİ YAYINLARI.
+********************************************************
+***************67********************
+Kitap İsmi : Kral Kaybederse.
+Yazar : Dr. Gülseren Budayıcıoğlu.
+Kitap türü : REMZİ KİTABEVİ.
+********************************************************
+***************68********************
+Kitap İsmi : Dervişin Teselli Koleksiyonu & Doğu'dan Batı'dan 99 Teselli .
+Yazar :  Mecit Ömür Öztürk.
+Kitap türü : HAYY KİTAP.
+********************************************************
+***************69********************
+Kitap İsmi : Saatleri Ayarlama Enstitüsü.
+Yazar :  Ahmet Hamdi Tanpınar.
+Kitap türü : DERGAH YAYINLARI.
+********************************************************
+***************70********************
+Kitap İsmi : Yaklaşıyor Yaklaşmakta Olan.
+Yazar :  Tahir Şimşek.
+Kitap türü : SİNADA KİTAP.
+********************************************************
+***************71********************
+Kitap İsmi : Hayvanlardan Tanrılara Sapiens &  İnsan Türünün Kısa Bir Tarihi.
+Yazar :  Yuval Noah Harari.
+Kitap türü : KOLEKTİF KİTAP.
+********************************************************
+***************72********************
+Kitap İsmi : Kara Kutu & Yüzleşme Vakti.
+Yazar :  Soner Yalçın.
+Kitap türü : KIRMIZI KEDİ YAYINEVİ.
+********************************************************
+***************73********************
+Kitap İsmi : Serenad (Karton Kapak).
+Yazar :  Zülfü Livaneli.
+Kitap türü : DOĞAN KİTAP.
+********************************************************
+***************74********************
+Kitap İsmi : İyi Hissetmek.
+Yazar : Dr. David Burns.
+Kitap türü : PSİKONET YAYINLARI.
+********************************************************
+***************75********************
+Kitap İsmi : Bir Çöküşün Öyküsü.
+Yazar :  Stefan Zweig.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************76********************
+Kitap İsmi : Akıl Defteri - Dokun ve Hisset Serisi - Tavus Kuşları.
+Yazar :  Jean Jacques Rousseau.
+Kitap türü : AKIL DEFTERİ.
+********************************************************
+***************77********************
+Kitap İsmi : Toplum Sözleşmesi (Ciltsiz).
+Yazar :  Şermin Yaşar.
+Kitap türü : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI.
+********************************************************
+***************78********************
+Kitap İsmi : Abartma Tozu.
+Yazar :  Mark Twain.
+Kitap türü : TAZE KİTAP.
+********************************************************
+***************79********************
+Kitap İsmi : İnsan Nedir?.
+Yazar :  Peyami Safa.
+Kitap türü : DEDALUS KİTAP.
+********************************************************
+***************80********************
+Kitap İsmi : Dokuzuncu Hariciye Koğuşu.

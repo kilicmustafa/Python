@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    GİRİŞ YAP
+{% endblock %}
+
+
+{% block body %}
+    
+    {% from "includes/formhelpers.html" import render_field %}
+
+    <h3 class="text-center text-secondary mt-2 p-2">Giriş yap</h3>
+    <hr class="border-primary p-1">
+
+    <form method = "post" class="text-center">
+        
+        {{ render_field(form.UserName) }}
+        {{ render_field(form.Password) }}
+
+
+        <button type="submit" class= "btn btn-primary mt-3">Giriş yap</button>
+    </form>
+
+{% endblock %}

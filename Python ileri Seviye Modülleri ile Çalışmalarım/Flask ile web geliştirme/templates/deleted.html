@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+    {% from "includes/formhelpers.html" import render_field %}
+
+    {% if article %}
+
+        <form method="post" class="text-center">
+            <p class="Center text-danger">{{ article.title }} adlı makalenizi silmek istediğinize eminmisiniz ? </p>
+
+            {{ render_field(form.accept) }}
+            <button type="submit" class="btn btn-primary">Sil</button>
+            <a href="/dashboard" class="btn btn-success" >Vazgeç</a>
+            
+        </form>
+
+    {% else %}
+
+        <div class="alert alert-warning" >
+            Böyle bir makale bulunamadı
+        </div>
+
+    {% endif %}
+
+{% endblock %}

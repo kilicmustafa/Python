@@ -1,0 +1,64 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Arama...
+{% endblock %}
+
+
+
+
+{% block body %}
+
+    <h3 class="text-center text-info mt-2 p-2">Makale Bul</h3>
+    
+
+    <form class="form-inline d-flex justify-content-center md-form form-sm " action="/search" method="post">
+        <i class="fas fa-search" aria-hidden="true"></i>
+        <input class="form-control form-control ml-3 w-75" type="text" placeholder="Ara..."
+            aria-label="Search" name="keyword">
+        <button class="btn btn-primary ml-5">Bul...</button>
+
+    </form>
+
+    <hr class="border-success p-1">
+
+
+    {% for article in articles %}
+        <div class="card text-center mx-5 my-4">
+            <div class="card-header">
+                {{ article["author"] }}
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">
+                    {{ article["title"] }}
+                </h5>
+                <p class="card-text text-warning">
+                    İçeriği görmek için görüntüle butonuna basınız.
+                </p>
+
+                {% if session["username"] == article["author"] %}
+                    <a href="update-{{ article.id }}" class="btn btn-primary">
+                        Düzenle
+                    </a>
+                {% else %}
+                {% endif %}
+                <a href="/article-{{ article.id }}" class="btn btn-primary">
+                    Görüntüle
+                </a>
+                
+            </div>
+            <div class="card-footer text-muted">
+                
+                Oluşturulma zamanı : {{ article["created_date"] }}
+                
+            </div>
+        </div>
+
+
+    {% endfor %}
+
+
+    
+
+{% endblock %}
+

@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+
+{% block title %}
+    Makale Güncelle
+{% endblock %}
+
+{% block body %}
+
+
+
+{% from "includes/formhelpers.html" import render_field %}
+
+
+<h3 class="text-center text-success mt-2 p-2">Makale Ekle</h3>
+<hr class="border-success p-1">
+
+
+
+
+<form method = "post" class="mt-2 p-2">
+    {{ render_field(form.title ,class="form-control") }}
+    {{ render_field(form.content ,class="form-control") }}
+
+    <button type = "submit" class="btn btn-success text-center">
+        Güncelle
+    </button>
+
+</form>
+
+
+
+{% endblock %}

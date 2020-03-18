@@ -1,0 +1,80 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Arkadaş Bul
+{% endblock %}
+
+
+{% block body %}
+
+    <h3 class="text-center text-info mt-2 p-2">Arkadaş Bul</h3>
+    <hr class="border-dark p-1">
+    <form class="form-inline d-flex justify-content md-form form-sm mt-0 ml-5" action="/frendFind" method="post">
+        <i class="fas fa-search" aria-hidden="true"></i>
+        <input class="form-control form-control  " type="text" placeholder="Ara..."
+            aria-label="Search" name="keyword">
+        <button class="btn btn-primary ml-3">Bul...</button>
+
+    </form>
+    
+
+    
+
+    {% for user in users %}
+
+        <div class="card m-5 p-1" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <img src="{{ user.ProfilePhoto }}" class="card-img mt-2" alt="profile-Phote">
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">{{ user.FirstName }} {{ user.LastName }} <small>({{ user.UserName }})</small> </h5>
+                <p class="card-text"> {{ user.Biography }} </p>
+                <p class="card-text">
+                    <small class="text-muted">
+                        Age :{{ user.Age }}
+                    </small>
+                    
+
+
+
+
+                        {% for frend in frends %}
+
+
+                            {% if frend.you == user.UserName  %}
+
+                                <a href="/FrendDelete-{{ user.UserName }}" class="btn btn-sm btn-danger">Arkadaşlıktan çık</a>
+                            
+                            {% endif %}
+
+
+                        {% endfor %}
+
+                                                                       
+                        {% for request in user.FrendRequest.split(",")  %}
+
+                            {% if request == session["username"] %}    
+                  
+                        
+                                <a href="/FrendRequestDelete-{{ user.UserName }}" class="btn btn-sm btn-warning m-auto">istek Gönderildi</a>
+                            
+                            {% endif %} 
+                        {% endfor %} 
+
+         
+                        
+                        <a href="/FrendRequest-{{ user.UserName }}" class="btn btn-sm btn-success m-auto">Arkadaş Ekle</a>
+
+             
+                </p>
+            </div>
+            </div>
+        </div>
+        </div>
+
+
+    {% endfor %}
+
+{% endblock %}

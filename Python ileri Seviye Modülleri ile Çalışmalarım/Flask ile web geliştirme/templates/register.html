@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+
+
+{% block body %}
+    
+
+    {% from "includes/formhelpers.html" import render_field %}
+    
+    <h3 class="text-secondary text-center mt-3 ">Üye Ol</h3>
+    <hr class="border">
+
+    <form method = "post" class="m-5">
+        
+        {{ render_field(form.FirstName ,class="form-control") }}
+        {{ render_field(form.LastName ,class="form-control") }}
+        {{ render_field(form.UserName ,class="form-control") }}
+        {{ render_field(form.Email ,class="form-control") }}
+        {{ render_field(form.PhoneNumber ,class="form-control") }}
+        {{ render_field(form.Password ,class="form-control") }}
+        {{ render_field(form.confirm ,class="form-control") }}
+
+        <button type="submit" class="btn btn-primary btn-block mt-3">Kayıt ol</button>
+    </form>
+
+
+{% endblock %}
